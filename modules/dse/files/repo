@@ -1,0 +1,5 @@
+[datastax]
+name=DataStax Repo for DataStax Enterprise
+baseurl=https://madhu.kolla_searshc.com:7IjaXW27ujRIfTy@rpm.datastax.com/enterprise
+enabled=1
+gpgcheck=0
